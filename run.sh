@@ -18,3 +18,15 @@ using persona 'self':
 ```bash
 python projects/personachat/scripts/kvmemnn_interactive.py
 ```
+
+projects/wizard_of_wikipedia/README.md
+
+
+export LANG="C.UTF-8"
+
+```
+# 会自动触发下载
+python examples/display_data.py -t wizard_of_wikipedia -dt train
+```
+
+# [ loaded 18430 episodes with a total of 74092 examples ]
